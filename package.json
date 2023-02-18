@@ -1,6 +1,6 @@
 {
   "name": "dropsuit-enoun",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "DropSuit NLP - enoun function: A JavaScript and Node.js library for filtering text to only include English nouns",
   "main": "index.js",
   "scripts": {
